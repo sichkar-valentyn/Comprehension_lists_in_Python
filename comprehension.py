@@ -1,4 +1,15 @@
-
+# File: comprehension.py
+# Description: Using comprehension lists in Python
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Using comprehension lists in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Comprehension_lists_in_Python (date of access: XX.XX.XXXX)
+        
+        
 # Without using list-comprehension in Python
 x = [-2, -1, 0, 1, 2]
 y = []
